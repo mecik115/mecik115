@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Kaan Emre Ozturk, trying to graduate from Computer Science in Bilkent University
 
 <!--
 **mecik115/mecik115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
